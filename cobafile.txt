@@ -1,1 +1,3 @@
-Ini merupakan file dummy sebagai contoh.
+Ini merupakan file txt yang digunakan sebagai contoh.
+Kita tambahkan text disini sebagai materi.
+Ini lah hasilnya
